@@ -1,0 +1,27 @@
+.container-fluid {
+  background-color: grey;
+  padding:50px;
+}
+.logo {
+  background-color: black;
+  height: 100px;
+}
+.nav-item {
+  height: 25px;
+  background-color: black;
+}
+.hero {
+  background-color: black;
+  height: 400px;
+  margin: 30px auto;
+}
+.col-md-3 {
+  background-color: black;
+  height: 25px;
+}
+.boxes {
+  height: 200px;
+  background-color: black;
+  margin-top:25px;
+  margin-bottom: 50px;
+}
